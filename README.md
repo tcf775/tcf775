@@ -27,4 +27,5 @@ Next.js / .NetFramework / Python / LlamaIndex / LangChain / C# / VB.Net / VB6 / 
 KUSANAGI / RESTAPI / SOAP-RPC / Windowsバッチ
 
 ## 今やってみたいこと
-データ統合基盤を作ってみたい
+データ統合基盤を作ってみたい / 一生遊んで暮らしたい
+
