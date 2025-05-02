@@ -18,15 +18,6 @@ Windows業務アプリ開発 / システム間データ連携 / Web業務アプ�
 ### 多分人並みにできる
 SQL
 
-### 触ったことがある程度
-Linux(Redhat系) / Apache / shell / Swagger / TypeScript / C++/CLI / Java / GO / PHP / Redis / 
-AWS(S3, EC2, SQS, SES, Lambda, RDS, Athena, Glue, Bedrock, ApiGateway) / React / Docker / 
-Fluentd / GoogleCloud(GCE,　GAE,　CloudRun,　GCS,　BigQuery) / Laravel / FuelPHP / WordPress / 
-JavaScript / Bootstrap / GitHub Actions / HTML / CSS / vim / nginx / Ansible / Mitamae / 
-PostgreSQL / MySQL / SQLServer / FileMaker / Access / さくらのクラウド / Cloud N / GMO クラウド / 
-Next.js / .NetFramework / Python / LlamaIndex / LangChain / C# / VB.Net / VB6 / ASP.NET / 
-KUSANAGI / RESTAPI / SOAP-RPC / Windowsバッチ
-
 ## 今やってみたいこと
 データ統合基盤を作ってみたい / 一生遊んで暮らしたい
 
